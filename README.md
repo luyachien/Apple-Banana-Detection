@@ -2,24 +2,6 @@
 
 This project uses YOLOv5 to detect apples and bananas in images. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images), and annotations were done using Roboflow.
 
-## Project Structure
-
-apple-banana-detection/
-¢u¢w¢w README.md
-¢u¢w¢w .gitignore
-¢u¢w¢w apple_banana_detection.ipynb
-¢u¢w¢w train.py
-¢u¢w¢w test.py
-¢u¢w¢w preprocess.py
-¢u¢w¢w data/
-¢x ¢u¢w¢w images/
-¢x ¢u¢w¢w labels/
-¢u¢w¢w models/
-¢x ¢|¢w¢w best.pt
-¢|¢w¢w config/
-¢|¢w¢w yolov5s.yaml
-
-
 ## Installation
 
 1. Clone this repository:
