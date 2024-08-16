@@ -4,4 +4,4 @@ This project uses YOLOv5 to detect apples and bananas in images. The dataset is 
 
 ## Contact
 
-For any questions or suggestions, please contact [luyachien](luya.chien@gmail.com).
+For any questions or suggestions, please contact [luyachien]: [luya.chien@gmail.com].
